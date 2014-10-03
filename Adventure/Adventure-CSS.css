@@ -1,0 +1,20 @@
+h1 {
+    text-align:center;
+    font-family:Parisienee, cursive;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    color:red;
+}
+a:clicked {
+}
+div {
+    margin:auto;
+    border:1px solid black;
+    border-radius:3px;
+}
+p {
+    text-align:center;
+}
